@@ -1,0 +1,2 @@
+rootProject.name = "Covpass SDK Demo Test"
+include ':app'
